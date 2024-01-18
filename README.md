@@ -4,6 +4,7 @@
 
 ## lyapunov exponent time series  
 
+Lyapunov指数也是分析系统非线性特征的评价指标，其定量地描述了非线性系统相空间中相邻轨道之间收敛或者发散的状态
 
 https://blog.abhranil.net/2014/07/22/calculating-the-lyapunov-exponent-of-a-time-series-with-python-code/
 
